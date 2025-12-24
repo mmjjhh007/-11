@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Holiday Magic - Interactive 3D Tree",
+  "description": "An immersive 3D Christmas experience using Three.js. Features a particle-based tree, procedural candy canes, and a memory photo wall with mouse-based interactions.",
+  "requestFramePermissions": []
+}
